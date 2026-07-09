@@ -24,3 +24,4 @@ I build secure, scalable conversational workforces for Google Cloud Partners, AI
 
 * **Verified Google Credentials:** [https://www.skills.google/public_profiles/c63311de-00f6-4824-93f2-406d70362518]
 * **Inbound Inquiries:** If you require custom system designs or architecture reviews, connect with me directly on [LinkedIn](https://www.linkedin.com/in/hany-waheed/).
+* **Discussions On Reddit:** Let's talk about AI agents and more on [Reddit](https://www.reddit.com/user/hanywaheed/).
